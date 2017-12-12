@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Gradle suite" duration-ms="48" started-at="2017-12-02T20:41:36Z" finished-at="2017-12-02T20:41:36Z">
+    <groups>
+    </groups>
+    <test name="Gradle test" duration-ms="48" started-at="2017-12-02T20:41:36Z" finished-at="2017-12-02T20:41:36Z">
+      <class name="ConnectNTest">
+        <test-method status="PASS" signature="testGameCount()[pri:0, instance:ConnectNTest@f67a604]" name="testGameCount" duration-ms="13" started-at="2017-12-02T14:41:36Z" finished-at="2017-12-02T14:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGameCount -->
+        <test-method status="PASS" signature="testWinner()[pri:0, instance:ConnectNTest@f67a604]" name="testWinner" duration-ms="2" started-at="2017-12-02T14:41:36Z" finished-at="2017-12-02T14:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWinner -->
+        <test-method status="PASS" signature="testConstructors()[pri:0, instance:ConnectNTest@f67a604]" name="testConstructors" duration-ms="0" started-at="2017-12-02T14:41:36Z" finished-at="2017-12-02T14:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConstructors -->
+        <test-method status="PASS" signature="testEquals()[pri:0, instance:ConnectNTest@f67a604]" name="testEquals" duration-ms="1" started-at="2017-12-02T14:41:36Z" finished-at="2017-12-02T14:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEquals -->
+        <test-method status="PASS" signature="testGetAndSetBoard()[pri:0, instance:ConnectNTest@f67a604]" name="testGetAndSetBoard" duration-ms="1" started-at="2017-12-02T14:41:36Z" finished-at="2017-12-02T14:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAndSetBoard -->
+        <test-method status="PASS" signature="testGetAndSetHeight()[pri:0, instance:ConnectNTest@f67a604]" name="testGetAndSetHeight" duration-ms="1" started-at="2017-12-02T14:41:36Z" finished-at="2017-12-02T14:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAndSetHeight -->
+        <test-method status="PASS" signature="testGetAndSetN()[pri:0, instance:ConnectNTest@f67a604]" name="testGetAndSetN" duration-ms="2" started-at="2017-12-02T14:41:36Z" finished-at="2017-12-02T14:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAndSetN -->
+        <test-method status="PASS" signature="testGetAndSetWidth()[pri:0, instance:ConnectNTest@f67a604]" name="testGetAndSetWidth" duration-ms="2" started-at="2017-12-02T14:41:36Z" finished-at="2017-12-02T14:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAndSetWidth -->
+        <test-method status="PASS" signature="testStaticMethods()[pri:0, instance:ConnectNTest@f67a604]" name="testStaticMethods" duration-ms="2" started-at="2017-12-02T14:41:36Z" finished-at="2017-12-02T14:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStaticMethods -->
+        <test-method status="PASS" signature="testTitle()[pri:0, instance:ConnectNTest@f67a604]" name="testTitle" duration-ms="3" started-at="2017-12-02T14:41:36Z" finished-at="2017-12-02T14:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle -->
+      </class> <!-- ConnectNTest -->
+    </test> <!-- Gradle test -->
+  </suite> <!-- Gradle suite -->
+</testng-results>
